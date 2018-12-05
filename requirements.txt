@@ -1,3 +1,4 @@
 advertools
 pandas
 matplotlib
+lxml
