@@ -1,101 +1,138 @@
-Rank,City,Country,Arrivals 2017,growth in arrivals
-1,Hong Kong,Hong Kong,25695800,−3.1 %
-2,Bangkok,Thailand,23270600,9.5 %
-3,London,United Kingdom,19842800,3.4 %
-4,Singapore,Singapore,17681800,6.1 %
-5,Macau,Macau,16299100,5.9 %
-6,Dubai,United Arab Emirates,16010000,7.7 %
-7,Paris,France,14263000,−0.9 %
-8,New York City,United States,13100000,3.6 %
-9,Shenzhen,China,12962000,3.1 %
-10,Kuala Lumpur,Malaysia,12843500,4.5 %
-11,Phuket,Thailand,12079500,14.0 %
-12,Delhi,India,10257000,37.7 %
-13,Tokyo,Japan,9713500,4.8 %
-14,Rome,Italy,9565500,1.8 %
-15,Taipei,Taiwan,9318900,1.0 %
-16,Guangzhou,China,9075500,5.3 %
-17,Mumbai,India,8884900,23.5 %
-18,Mecca,Saudi Arabia,8745000,9.8 %
-19,Istanbul,Turkey,8642300,−5.8 %
-20,Prague,Czech Republic,8550700,4.5 %
-21,Miami,United States,8075800,3.1 %
-22,Seoul,South Korea,7659100,"−14,9 %"
-23,Barcelona,Spain,7624100,8.3 %
-24,Pattaya,Thailand,7313500,4.2 %
-25,Shanghai,China,7201200,4.3 %
-26,Milan,Italy,6882500,2.8 %
-27,Cancún,Mexico,6761000,16.0 %
-28,Agra,India,6744400,26.3 %
-29,Las Vegas,United States,6687800,−0.8 %
-30,Amsterdam,Netherlands,6570400,3.6 %
-31,Antalya,Turkey,6447400,4.6 %
-32,Denpasar,Indonesia,6238300,52.9 %
-33,Osaka,Japan,6133100,8.7 %
-34,Los Angeles,United States,6074300,4.0 %
-35,Vienna,Austria,6043700,3.0 %
-36,Berlin,Germany,5833100,4.9 %
-37,Madrid,Spain,5581000,8.8 %
-38,Johor Bahru,Malaysia,5571400,15.0 %
-39,Johannesburg,South Africa,5537300,7.2 %
-40,Riyadh,Saudi Arabia,5518400,8.9 %
-41,Ho Chi Minh City,Vietnam,5500000,5.8 %
-42,Venice,Italy,5227300,1.7 %
-43,Orlando,United States,5269000,2.7 %
-44,Chennai,India,5186300,10.8 %
-45,Jaipur,India,5088600,17.8 %
-46,Athens,Greece,4978600,10.0 %
-47,Dublin,Ireland,4977000,3.5 %
-48,Florence,Italy,4878500,1.5 %
-49,Moscow,Russia,4632300,2.0 %
-50,Toronto,Canada,4451000,11.2 %
-51,Hanoi,Vietnam,4300000,7.5 %
-52,Beijing,China,4156700,−0.2 %
-53,Ha Long,Vietnam,4000000,14.3 %
-54,Sydney,Australia,3857900,6.6 %
-55,Budapest,Hungary,3823900,9.1 %
-56,Punta Cana,Dominican Republic,3673600,6.5 %
-57,San Francisco,United States,3601600,0.3 %
-58,Jakarta,Indonesia,3587500,48.5 %
-59,Dammam,Saudi Arabia,3584800,4.9 %
-60,Munich,Germany,3492000,3.0 %
-61,Lisbon,Portugal,3320300,5.9 %
-62,Zhuhai,China,3277000,3.3 %
-63,Heraklion,Greece,3208300,11.2 %
-64,Penang Island,Malaysia,3194400,7.4 %
-65,Cairo,Egypt,3067100,1.8 %
-66,Copenhagen,Denmark,3061000,6.0 %
-67,Kyoto,Japan,3029600,10.4 %
-68,Phnom Penh,Cambodia,3016900,7.5 %
-69,Doha,Qatar,3016600,3.8 %
-70,Chiang Mai,Thailand,2944600,7.5 %
-71,Edirne,Turkey,2934100,3.1 %
-72,Jerusalem,Israel,2888600,1.0 %
-73,Saint Petersburg,Russia,2856500,2.0 %
-74,Warsaw,Poland,2794700,2.2 %
-75,Melbourne,Australia,2782700,9.8 %
-76,Marrakesh,Morocco,2668700,6.2 %
-77,Vancouver,Canada,2652600,6.6 %
-78,Auckland,New Zealand,2625100,5.2 %
-79,Tel Aviv,Israel,2613800,3.7 %
-80,Honolulu,United States,2574900,1.0 %
-81,Artvin,Turkey,2572300,9.3 %
-82,Kolkata,India,2550400,11.3 %
-83,Kraków,Poland,2550000,−3.8 %
-84,Guilin,China,2531500,8.5 %
-85,Brussels,Belgium,2524000,0.5 %
-86,Frankfurt am Main,Germany,2511400,4.4 %
-87,Stockholm,Sweden,2471200,6.2 %
-88,Jeju,South Korea,2429400,−11.4 %
-89,Mexico City,Mexico,2351000,9.0 %
-90,Siem Reap,Cambodia,2337600,6.0 %
-91,Lima,Peru,2274000,5.7 %
-92,Rio de Janeiro,Brazil,2253600,−2.4 %
-93,Rhodes,Greece,2252100,7.7 %
-94,Buenos Aires,Argentina,2241200,−1.0 %
-95,Colombo,Sri Lanka,2206000,8.1 %
-96,Abu Dhabi,United Arab Emirates,2182900,6.2 %
-97,Taichung,Taiwan,2175000,4.0 %
-98,Washington D.C.,United States,2154000,4.0 %
-99,Chiba,Japan,2152600,−2.7 %
-100,Nice,France,2141000,−1.1 %
+RankEuromonitor,RankMastercard,City,Country,Arrivals 2016Euromonitor,Arrivals 2016Mastercard,Growthin arrivalsEuromonitor,Income(billions $)Mastercard
+1.0,11.0,Hong Kong,Hong Kong,25695800.0,8370000.0,−3.1 %,6.84
+2.0,1.0,Bangkok,Thailand,23270600.0,21470000.0,9.5 %,14.84
+3.0,2.0,London,United Kingdom,19842800.0,19880000.0,3.4 %,19.76
+4.0,6.0,Singapore,Singapore,17681800.0,12110000.0,6.1 %,12.54
+5.0,,Macau,Macau,16299100.0,,5.9 %,
+6.0,4.0,Dubai,United Arab Emirates,16010000.0,15270000.0,7.7 %,31.30
+7.0,3.0,Paris,France,14263000.0,18030000.0,−0.9 %,12.88
+8.0,5.0,New York City,United States,13100000.0,12750000.0,3.6 %,18.52
+9.0,54.0,Shenzhen,China,12962000.0,2120000.0,3.1 %,0.83
+10.0,7.0,Kuala Lumpur,Malaysia,12843500.0,12020000.0,4.5 %,11.34
+11.0,,Phuket,Thailand,12079500.0,,14.0 %,
+12.0,48.0,Delhi,India,10257000.0,2580000.0,37.7 %,1.91
+13.0,9.0,Tokyo,Japan,9713500.0,10700000.0,4.8 %,13.48
+14.0,16.0,Rome,Italy,9565500.0,7120000.0,1.8 %,4.47
+15.0,15.0,Taipei,Taiwan,9318900.0,7350000.0,1.0 %,9.60
+16.0,36.0,Guangzhou,China,9075500.0,3700000.0,5.3 %,1.66
+17.0,27.0,Mumbai,India,8884900.0,4860000.0,23.5 %,3.60
+18.0,,Mecca,Saudi Arabia,8745000.0,,9.8 %,
+19.0,8.0,Istanbul,Turkey,8642300.0,11950000.0,−5.8 %,7.54
+20.0,20.0,Prague,Czech Republic,8550700.0,5810000.0,4.5 %,2.70
+21.0,24.0,Miami,United States,8075800.0,5240000.0,3.1 %,8.15
+22.0,10.0,Seoul,South Korea,7659100.0,10200000.0,"−14,9 %",11.30
+23.0,12.0,Barcelona,Spain,7624100.0,8200000.0,8.3 %,9.28
+24.0,,Pattaya,Thailand,7313500.0,,4.2 %,
+25.0,19.0,Shanghai,China,7201200.0,6120000.0,4.3 %,5.00
+26.0,14.0,Milan,Italy,6882500.0,7650000.0,2.8 %,4.56
+27.0,,Cancún,Mexico,6761000.0,,16.0 %,
+28.0,,Agra,India,6744400.0,,26.3 %,
+29.0,,Las Vegas,United States,6687800.0,,−0.8 %,
+30.0,13.0,Amsterdam,Netherlands,6570400.0,8000000.0,3.6 %,4.20
+31.0,,Antalya,Turkey,6447400.0,,4.6 %,
+32.0,,Denpasar,Indonesia,6238300.0,,52.9 %,
+33.0,17.0,Osaka,Japan,6133100.0,7020000.0,8.7 %,3.39
+34.0,21.0,Los Angeles,United States,6074300.0,5600000.0,4.0 %,8.10
+35.0,18.0,Vienna,Austria,6043700.0,6690000.0,3.0 %,4.54
+36.0,26.0,Berlin,Germany,5833100.0,4940000.0,4.9 %,5.00
+37.0,22.0,Madrid,Spain,5581000.0,5260000.0,8.8 %,8.02
+38.0,,Johor Bahru,Malaysia,5571400.0,,15.0 %,
+39.0,39.0,Johannesburg,South Africa,5537300.0,3600000.0,7.2 %,1.73
+40.0,28.0,Riyadh,Saudi Arabia,5518400.0,4590000.0,8.9 %,1.69
+41.0,42.0,Ho Chi Minh City,Vietnam,5500000.0,3050000.0,5.8 %,3.12
+42.0,,Venice,Italy,5227300.0,,1.7 %,
+43.0,,Orlando,United States,5269000.0,,2.7 %,
+44.0,30.0,Chennai,India,5186300.0,4370000.0,10.8 %,3.24
+45.0,,Jaipur,India,5088600.0,,17.8 %,
+46.0,46.0,Athens,Greece,4978600.0,2680000.0,10.0 %,1.62
+47.0,25.0,Dublin,Ireland,4977000.0,4970000.0,3.5 %,1.87
+48.0,,Florence,Italy,4878500.0,,1.5 %,
+49.0,59.0,Moscow,Russia,4632300.0,1830000.0,2.0 %,0.94
+50.0,29.0,Toronto,Canada,4451000.0,4520000.0,11.2 %,2.16
+51.0,52.0,Hanoi,Vietnam,4300000.0,2200000.0,7.5 %,1.28
+52.0,31.0,Beijing,China,4156700.0,4050000.0,4.08,−0.2 %
+53.0,,Ha Long,Vietnam,4000000.0,,14.3 %,
+54.0,35.0,Sydney,Australia,3857900.0,3750000.0,6.6 %,6.40
+55.0,40.0,Budapest,Hungary,3823900.0,3360000.0,9.1 %,0.95
+56.0,44.0,Punta Cana,Dominican Republic,3673600.0,2730000.0,6.5 %,2.95
+57.0,33.0,San Francisco,United States,3601600.0,3930000.0,0.3 %,5.93
+58.0,66.0,Jakarta,Indonesia,3587500.0,1550000.0,48.5 %,1.19
+59.0,,Dammam,Saudi Arabia,3584800.0,,4.9 %,
+60.0,23.0,Munich,Germany,3492000.0,5250000.0,3.0 %,5.32
+61.0,37.0,Lisbon,Portugal,3320300.0,3630000.0,5.9 %,1.43
+62.0,,Zhuhai,China,3277000.0,,3.3 %,
+63.0,,Heraklion,Greece,3208300.0,,11.2 %,
+64.0,,Penang Island,Malaysia,3194400.0,,7.4 %,
+65.0,66.0,Cairo,Egypt,3067100.0,1550000.0,1.8 %,1.08
+66.0,64.0,Copenhagen,Denmark,3061000.0,1630000.0,6.0 %,0.91
+67.0,,Kyoto,Japan,3029600.0,,10.4 %,
+68.0,,Phnom Penh,Cambodia,3016900.0,,7.5 %,
+69.0,,Doha,Qatar,3016600.0,,3.8 %,
+70.0,,Chiang Mai,Thailand,2944600.0,,7.5 %,
+71.0,,Edirne,Turkey,2934100.0,,3.1 %,
+72.0,,Jerusalem,Israel,2888600.0,,1.0 %,
+73.0,85.0,Saint Petersburg,Russia,2856500.0,990.0,2.0 %,0.51
+74.0,71.0,Warsaw,Poland,2794700.0,1370000.0,2.2 %,0.51
+75.0,47.0,Melbourne,Australia,2782700.0,2650000.0,9.8 %,4.94
+76.0,,Marrakesh,Morocco,2668700.0,,6.2 %,
+77.0,34.0,Vancouver,Canada,2652600.0,3900000.0,6.6 %,2.12
+78.0,,Auckland,New Zealand,2625100.0,,5.2 %,
+79.0,85.0,Tel Aviv,Israel,2613800.0,990000.0,3.7 %,1.31
+80.0,,Honolulu,United States,2574900.0,,1.0 %,
+81.0,,Artvin,Turkey,2572300.0,,9.3 %,
+82.0,62.0,Kolkata,India,2550400.0,1720000.0,11.3 %,1.27
+83.0,,Kraków,Poland,2550000.0,,−3.8 %,
+84.0,,Guilin,China,2531500.0,,8.5 %,
+85.0,45.0,Brussels,Belgium,2524000.0,2710000.0,0.5 %,1.92
+86.0,38.0,Frankfurt am Main,Germany,2511400.0,3620000.0,4.4 %,3.67
+87.0,55.0,Stockholm,Sweden,2471200.0,2080000.0,6.2 %,1.68
+88.0,,Jeju,South Korea,2429400.0,,−11.4 %,
+89.0,43.0,Mexico City,Mexico,2351000.0,2980000.0,9.0 %,2.27
+90.0,,Siem Reap,Cambodia,2337600.0,,6.0 %,
+91.0,32.0,Lima,Peru,2274000.0,4030000.0,5.7 %,1.44
+92.0,71.0,Rio de Janeiro,Brazil,2253600.0,1370000.0,−2.4 %,0.97
+93.0,,Rhodes,Greece,2252100.0,,7.7 %,
+94.0,57.0,Buenos Aires,Argentina,2241200.0,2020000.0,−1.0 %,1.69
+95.0,79.0,Colombo,Sri Lanka,2206000.0,1130000.0,8.1 %,0.95
+96.0,41.0,Abu Dhabi,United Arab Emirates,2182900.0,3140000.0,6.2 %,2.65
+97.0,,Taichung,Taiwan,2175000.0,,4.0 %,
+98.0,53.0,Washington D.C.,United States,2154000.0,2180000.0,4.0 %,2.54
+99.0,,Chiba,Japan,2152600.0,,−2.7 %,
+100.0,,Nice,France,2141000.0,,−1.1 %,
+,49.0,São Paulo,Brazil,,2300000.0,,1.50
+,50.0,Zürich,Switzerland,,2240000.0,,2.23
+,50.0,Montreal,Canada,,2240000.0,,1.08
+,55.0,Chicago,United States,,2080000.0,,2.95
+,58.0,Düsseldorf,Germany,,1950000.0,,1.98
+,60.0,Boston,United States,,1740000.0,,2.18
+,60.0,Chengdu,China,,1740000.0,,0.60
+,63.0,Edinburgh,United Kingdom,,1660000.0,,1.13
+,64.0,San Jose,United States,,1630000.0,,0.86
+,68.0,Tehran,Iran,,1520000.0,,0.31
+,69.0,Houston,United States,,1500000.0,,2.48
+,70.0,Hamburg,Germany,,1450000.0,,1.47
+,71.0,Cape Town,South Africa,,1370000.0,,1.00
+,74.0,Manila,Philippines,,1320000.0,,0.98
+,75.0,Bogota,Colombia,,1260000.0,,1.35
+,76.0,Xi'an,China,,1210000.0,,0.63
+,77.0,Beirut,Lebanon,1160000.0,,1.12,
+,78.0,Geneva,Switzerland,,1150000.0,,1.14
+,80.0,Xiamen,China,,1090000.0,,0.93
+,81.0,Bucharest,Romania,,1050000.0,,0.31
+,81.0,Casablanca,Morocco,1050000.0,,0.62,
+,83.0,Atlanta,United States,,1020000.0,,1.47
+,84.0,Sofia,Bulgaria,,1010000.0,,0.44
+,87.0,Dalian,China,,940000.0,,0.55
+,88.0,Montevideo,Uruguay,,930000.0,,0.55
+,88.0,Amman,Jordan,,930000.0,,0.94
+,90.0,Hangzhou,China,,900000.0,,0.43
+,90.0,Pune,India,,900000.0,,0.66
+,92.0,Durban,South Africa,,830000.0,,0.29
+,93.0,Dallas,United States,,780000.0,,1.13
+,94.0,Accra,Ghana,,760000.0,,0.53
+,95.0,Quito,Ecuador,,750000.0,,0.42
+,95.0,Tianjin,China,,750000.0,,2.24
+,97.0,Bangalore,India,,740000.0,,0.55
+,98.0,Qingdao,China,,730000.0,,0.53
+,99.0,Philadelphia,United States,,720000.0,,1.05
+,100.0,Lagos,Nigeria,,710000.0,,0.16
